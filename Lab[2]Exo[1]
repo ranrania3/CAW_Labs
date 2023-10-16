@@ -1,1 +1,13 @@
-
+cd C:\Users\mjh\Desktop\learn_git
+git init
+git add three.txt
+git commit -m "three.txt added"
+git config --global user.email "rania.namer@univ-constantine2.dz"
+git config --global user.name "rania nmr"
+git commit -m "three.txt added"
+git log
+git add four.txt
+git commit -m "added four.txt"
+git rm three.txt
+git commit -m "delete three.txt"
+git log

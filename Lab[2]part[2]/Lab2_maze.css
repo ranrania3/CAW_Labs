@@ -110,3 +110,19 @@ neighboring elements.  Necessary to avoid giving ids to the boundary divs
 	height: 150px;
 	width: 98px;
 }
+#score {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 5px;
+  }
+  div.boundary.win {
+	background-color: #88ff88; 
+}
+
+div#timer{
+	font-weight: bold;
+	font-size: larger;
+	position: relative;
+	text-align: center;
+	margin-bottom: 5px;
+}

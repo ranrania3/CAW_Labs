@@ -1,0 +1,26 @@
+
+.button {
+    padding: 10px;
+    font-size: 20px;
+    background-color: purple;
+    color: #ffffff;
+    border: 1px white solid;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .clicked {
+    color: green;
+  }
+  
+  .notClicked {
+    color: red;
+  }
+  

@@ -1,0 +1,22 @@
+
+.btn {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 1em;
+  background-color: #673ab7;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+  transition: background-color 0.3s ease-in-out;
+  margin-left: 50em;
+  margin-bottom: 5em;
+}
+
+.btn:hover {
+  background-color: #f596ed;
+}
+.link:hover {
+color: #943a91;
+transform: translateY(-5px);
+}
